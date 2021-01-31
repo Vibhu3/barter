@@ -14,7 +14,7 @@ password: '',
    isModalVisible: false,
      firstName: '',
      lastName: '',
-    contatc: '',
+    contact: '',
    address: '',
       confirmPassword: ''
         }
